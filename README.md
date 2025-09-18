@@ -12,10 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
-- 🤝 I’m looking for help with **web, flutter, AI Services**
-
-- 💬 Ask me about **Web, AI/ML and Robotics**
-
 - 📫 How to reach me **kashif.techdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
