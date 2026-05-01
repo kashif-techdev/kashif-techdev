@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **web, flutter, AI/ML**
 
-- 🌱 I’m currently learning **Computer Vision and Robotics**
+- 🌱 Exploring **Computer Vision and Robotics**
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
