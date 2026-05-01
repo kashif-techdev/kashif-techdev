@@ -14,7 +14,3 @@
 
 - 📫 How to reach me **kashif.techdev@gmail.com**
 
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-techdev&" alt="kashif-techdev" /></p>
