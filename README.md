@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashif-techdev&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-techdev" /> </p>
 
-- 🔭 I’m currently working on **web, flutter, AI/ML and robotics**
+- 🔭 I’m currently working on **web, flutter, AI/ML **
 
 - 🌱 I’m currently learning **Computer Vision and Robotics**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **AI/ML projects**
 
 - 📫 How to reach me **kashif.techdev@gmail.com**
 
